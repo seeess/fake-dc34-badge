@@ -5,3 +5,4 @@ This stl size is 1.6mm thick like most pcbs, and is 118.5mm wide and tall (no id
 
 Also there's an AI generated image you could print as a sticker, have fun, send me a picture if you use these: https://x.com/see_ess
 
+![sticker](dc34.badge.sticker.png)
